@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhagya Indimagedara</h1>
-<h3 align="center">A passionate Software Engineering Undergradute</h3>
+<h3 align="center">A passionate Software Engineering Undergraduate</h3>
 
 - 🌱 I’m currently learning **BSc (Hons) in Information Technology Specialising in Software Engineering Degree**
 
