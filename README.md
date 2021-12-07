@@ -5,10 +5,6 @@
 
 - 📝 I regularly write articles on [https://dev.to/kithminiii](https://dev.to/kithminiii)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/https://dev.to/kithminiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/kithminiii" height="30" width="40" /></a>
