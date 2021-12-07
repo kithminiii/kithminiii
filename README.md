@@ -16,7 +16,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/bhagya-indimagedara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhagya-indimagedara/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/bhagya.indimagedara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/bhagya.indimagedara/" height="30" width="40" /></a>
 <a href="https://instagram.com/kithmini__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kithmini__" height="30" width="40" /></a>
-<a href="https://medium.com/@kithminiiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kithminiiii" height="30" width="40" /></a>
+<a href="https://medium.com/@kithminiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kithminiii" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
