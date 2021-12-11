@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bhagya Indimagedara</h1>
+<h1 align="center">Hi 👋,I'm Bhagya Indimagedara</h1>
 <h3 align="center">A Software Engineering Undergraduate</h3>
 
 - 🌱 I’m currently learning **BSc (Hons) in Computer Science and Software Engineering**
