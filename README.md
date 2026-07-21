@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhagya Kithmini</h1>
-<h3 align="center">👋 Hi there! I'm a versatile tech professional with 4+ years of experience working as a Project Manager, Full Stack Software Engineer, Quality Assurance Engineer, and UI/UX Designer. I specialize in building and managing end-to-end software solutions, ensuring quality, usability.</h3>
+<h3 align="center">👋 Hi there! I'm a versatile tech professional with 4+ years of experience working as a Project Manager, Full Stack Software Engineer. I specialize in building and managing end-to-end software solutions, ensuring quality, usability.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kithminiii&label=Profile%20views&color=0e75b6&style=flat" alt="kithminiii" /> </p>
 
